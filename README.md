@@ -1,2 +1,2 @@
-# graph-ranker
-Given a graph in the form of a matrix of dimension dxd and an integer value k, the algorithm is able to return the ranking of the best k graphs based on the sum of the shortest paths from node [0] [0] to all other reachable nodes of the graph. The algorithm is optimized according to temporal and spatial complexity criteria, with the implementation of data structures such as the heap, and implementations of well-known algorithms such as Dijkstra's.
+# GraphRanker
+Given a graph in the form of a matrix of dimension dxd and an integer value k, the algorithm is able to return the ranking of the best k graphs based on the sum of the shortest paths from node (0,0) to all other reachable nodes of the graph. The algorithm is optimized according to temporal and spatial complexity criteria, with the implementation of data structures such as the heap, and implementations of well-known algorithms such as Dijkstra's.
